@@ -1,5 +1,5 @@
 {
-  "name": "nexx-mongo",
+  "name": "node-mongo",
   "version": "0.1.1",
   "description": "Mongo adapter helpers",
   "main": "index.js",
