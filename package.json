@@ -1,0 +1,27 @@
+{
+  "name": "nexx-mongo",
+  "version": "0.1.1",
+  "description": "Mongo adapter helpers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongo",
+    "adapter",
+    "service"
+  ],
+  "author": "nhut.dev",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "bunyan": "^1.8.1",
+    "config": "^1.21.0",
+    "hoek": "^4.0.0",
+    "moment": "^2.13.0",
+    "mongodb": "^2.1.19",
+    "thrift": "^0.9.3",
+    "node-helpers": "git+ssh://git@github.com:nhutuit/node-helpers.git"
+
+  }
+}

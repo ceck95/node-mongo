@@ -1,0 +1,14 @@
+{
+  "undef": false,
+  "unused": true,
+  "esversion": 6,
+  "globalstrict": true,
+  "multistr": true,
+
+  "globals": {
+    "require": true,
+    "module": true,
+    "console": true,
+    "process": true
+  }
+}
